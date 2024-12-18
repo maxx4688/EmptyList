@@ -5,7 +5,7 @@ A Notekeeping app inspired with Nothing UI
 
 This project is a starting point for a Flutter application.
 
-##Features:
+## Features:
 
 - Clean UI with easy accessiable to all your needful features.
 - Cloud based data management with Encryption for safety of your data.
