@@ -1,4 +1,4 @@
-<img src="https://github.com/maxx4688/EmptyList/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" alt="logotype" width="60%"/>
+<img src="https://github.com/maxx4688/EmptyList/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" alt="logotype" width="30%"/>
 # EmptyList
 ### A notekeeping app 
 
