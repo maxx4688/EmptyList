@@ -13,4 +13,5 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Getting Started
 **Authentication** : Create and access your account with `Email` and `Password` to get your notes saved.
+
 **App lock** : Offers an inbuilt ```App lock``` that secures all your data.
