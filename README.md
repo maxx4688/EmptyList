@@ -15,3 +15,5 @@ A Notekeeping app inspired with Nothing UI
 **Authentication** : Create and access your account with `Email` and `Password` to get your notes saved.
 
 **App lock** : Offers an inbuilt ```App lock``` that secures all your data.
+
+* [Download Now](http://www.subsonic.org/pages/api.jsp) at `/subsonic/rest/{method}`
