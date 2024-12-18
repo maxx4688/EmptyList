@@ -1,6 +1,7 @@
-# notes_database
+# EmptyList
+###A notekeeping app that comes with an extraordianary user experience 
 
-A firebase notes prototype
+A Nothing phone notes app
 
 ## Getting Started
 
