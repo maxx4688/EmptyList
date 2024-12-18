@@ -7,9 +7,11 @@ A Notekeeping app inspired with Nothing UI
 
 ## Features:
 
+{
 - Clean UI with easy accessiable to all your needful features.
 - Cloud based data management with Encryption for safety of your data.
 - Fast and easy access to your saved notes.
+}
 
 # Getting Started with
 **Authentication** : Create and access your account with `Email` and `Password` to get your notes saved.
