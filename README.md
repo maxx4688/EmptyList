@@ -1,5 +1,5 @@
 # EmptyList
-###A notekeeping app that comes with an extraordianary user experience 
+### A notekeeping app that comes with an extraordianary user experience 
 
 A Nothing phone notes app
 
