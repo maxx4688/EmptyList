@@ -1,6 +1,6 @@
 <img src="https://github.com/maxx4688/EmptyList/blob/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" alt="logotype" width="10%"/>
 
-# EmptyList
+# **EmptyList**
 ### A notekeeping app 
 
 A Notekeeping app inspired with Nothing UI
