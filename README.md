@@ -12,9 +12,9 @@ A Notekeeping app inspired with Nothing UI
 - Fast and easy access to your saved notes.
 
 # Getting Started with
-**Authentication** : Create and access your account with `Email` and `Password` to get your notes saved.
+**Authentication** : Create and access your account with `Email` and `Password` to get your notes saved securely.
 
 **App lock** : Offers an inbuilt ```App lock``` that secures all your data.
 
-# [Download Now](https://github.com/maxx4688/EmptyList/releases/tag/release) 
+## [Download Now](https://github.com/maxx4688/EmptyList/releases/tag/release) 
 - Or `Head over to releases section`
