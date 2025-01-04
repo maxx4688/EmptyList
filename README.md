@@ -5,16 +5,16 @@
 
 A Notekeeping app inspired with Nothing UI
 
-<img src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/P1.png" alt="logotype" width="100%"/>
+<img src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/P1.png" alt="logotype" width="50%"/>
 
-<img src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/EmptyList1.png" alt="logotype" width="100%"/>
+<img src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/EmptyList1.png" alt="logotype" width="50%"/>
 
 <img src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/EmptyList2.png" alt="logotype" width="100%"/>
 
 ## Features:
 
-- Clean UI with easy accessiable to all your needful features.
-- Cloud based data management with Encryption for safety of your data.
+- Clean UI with easy accessible to all your needful features.
+- Cloud based data management with Encryption for the safety of your data.
 - Fast and easy access to your saved notes.
 
 # Getting Started with
