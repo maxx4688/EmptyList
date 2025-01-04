@@ -7,7 +7,7 @@ A Notekeeping app inspired with Nothing UI
 
 <img src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/P1.png" alt="poster_name" width="50%" align="left"/>
 
-<img src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/EmptyList1.png" alt="Applock preview" width="50%" align="right"/>
+<img &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/EmptyList1.png" alt="Applock preview" width="50%" align="left"/>
 
 <img src="https://github.com/maxx4688/EmptyList/blob/main/lib/assets/EmptyList2.png" alt="Home page" width="100%"/>
 
