@@ -21,5 +21,5 @@ A Notekeeping app inspired with Nothing UI
 
 **App lock** : Offers an inbuilt ```App lock``` that secures all your data.
 
-## [Download Now](https://github.com/maxx4688/EmptyList/releases/tag/release) 
+## [Download Now](https://github.com/maxx4688/EmptyList/releases) 
 > Or `Head over to releases section`
